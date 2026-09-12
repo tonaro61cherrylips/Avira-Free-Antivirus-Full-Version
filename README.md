@@ -235,3 +235,6 @@ This repository serves as the official landing page for Avira Free Antivirus. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Avira Free Antivirus today!**
+
+---
+**Last updated:** 2026-09-12 13:31:58 UTC
