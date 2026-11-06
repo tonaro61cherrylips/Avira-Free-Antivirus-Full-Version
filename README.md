@@ -237,4 +237,4 @@ This repository serves as the official landing page for Avira Free Antivirus. Th
 **Get the most recent version of Avira Free Antivirus today!**
 
 ---
-**Last updated:** 2026-11-05 19:47:11 UTC
+**Last updated:** 2026-11-06 00:52:22 UTC
